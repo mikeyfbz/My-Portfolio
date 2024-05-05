@@ -32,8 +32,8 @@ function App() {
   return (
     <PageWrapper>
       <PageLayout>
-        <Header>My Portfolio</Header>
-        <SubHeader>This is my portfolio. You will find links to my projects, bio and more.</SubHeader>
+        <Header>Mikey's Portfolio</Header>
+        <SubHeader>Here you can find my projects, bio and anything else I can think to add.</SubHeader>
       </PageLayout>
     </PageWrapper>
   );

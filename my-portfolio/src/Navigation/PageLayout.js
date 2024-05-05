@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import NavHeader from "../NavHeader";
+import NavHeader from "./NavHeader";
+import Footer from "./Footer";
 
 const Wrapper = styled.div`
   background-color: #708090;
@@ -13,6 +14,7 @@ const PageLayout = ({ children }) => {
     <Wrapper>
       <NavHeader />
       {children}
+      <Footer />
     </Wrapper>
   );
 };

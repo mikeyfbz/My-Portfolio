@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import NavButton from "./components/NavButton";
+import NavButton from "../components/NavButton";
 
 const Wrapper = styled.div`
   width: 100%;
