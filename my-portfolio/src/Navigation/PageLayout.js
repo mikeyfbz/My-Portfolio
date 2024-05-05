@@ -14,7 +14,7 @@ const PageLayout = ({ children }) => {
     <Wrapper>
       <NavHeader />
       {children}
-      <Footer />
+      {/* <Footer /> */}
     </Wrapper>
   );
 };

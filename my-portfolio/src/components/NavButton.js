@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const StyledButton = styled.a`
     height: 32px;
     width: 120px;
-    background-color: #0089ee;
+    background-color: #1600D0;
     color: #fff;
     display: flex;
     align-items: center;
@@ -17,7 +17,7 @@ const StyledButton = styled.a`
     text-decoration: none;
     &:hover {
         border: 1px solid white;
-        background-color: #40a9f6;
+        background-color: #1B00FF;
         font-weight: bold;
         height: 40px;
         width: 130px;

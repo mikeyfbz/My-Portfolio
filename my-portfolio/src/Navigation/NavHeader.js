@@ -18,7 +18,7 @@ const NavHeader = () => {
     <Wrapper>
         <NavButton text="Home" link="/" />
         <NavButton text="Projects" link="/projects" />
-        <NavButton text="Bio" link="/bio" />
+        <NavButton text="Details" link="/bio" />
     </Wrapper>
   );
 };
